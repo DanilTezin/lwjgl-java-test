@@ -1,1 +1,1 @@
-# lwjgl-java-test
+# OpenGL Java (project to study)
